@@ -33,7 +33,7 @@ public class FileStats {
 
 //Create a class called Employee with attributes like id, name, and salary. Implement methods to give a salary raise and print employee details. Create a few Employee objects and demonstrate the functionality.
 
-javaCopyclass Employee {
+class Employee {
     private int id;
     private String name;
     private double salary;
